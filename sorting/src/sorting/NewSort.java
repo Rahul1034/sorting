@@ -12,6 +12,7 @@ public class NewSort {
                 j = j - 1;
             }
             arr[j + 1] = key;
+            
         }
     }
     static void printArray(int arr[])
